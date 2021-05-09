@@ -1,11 +1,14 @@
 h2 {
 	color: teal;
+	background-color: wheat;
 }
 
 button {
 	color: blueviolet;
+	background-color: turquoise;
 }
 
 p {
 	color: coral;
+	background: yellowgreen;
 }
