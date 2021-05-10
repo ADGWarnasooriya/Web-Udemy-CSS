@@ -5,3 +5,8 @@
 p {
 	background-color: cornflowerblue;
 }
+
+h2,
+button {
+	color: red;
+}
