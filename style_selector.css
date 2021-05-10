@@ -3,7 +3,7 @@
 }
 
 p {
-	background-color: cornflowerblue;
+	background-color: white;
 }
 
 h2,
@@ -13,4 +13,10 @@ button {
 
 #login {
 	background-color: #90e0ef;
+}
+
+.ingredient {
+	background-color: teal;
+	color: black;
+	font-size: large;
 }
