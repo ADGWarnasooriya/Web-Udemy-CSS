@@ -28,3 +28,15 @@ ul li {
 ol li {
 	color: crimson;
 }
+
+input + button {
+	background-color: black;
+}
+
+p + button {
+	background-color: black;
+}
+
+div > span {
+	color: chartreuse;
+}
