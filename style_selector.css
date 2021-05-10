@@ -53,3 +53,7 @@ button:hover {
 a:hover {
 	text-decoration: overline;
 }
+
+button:active {
+	background-color: #00b4d8;
+}
