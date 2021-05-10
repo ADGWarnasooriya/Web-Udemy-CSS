@@ -20,3 +20,11 @@ button {
 	color: black;
 	font-size: large;
 }
+
+ul li {
+	color: #2a9d8f;
+}
+
+ol li {
+	color: crimson;
+}
