@@ -40,3 +40,7 @@ p + button {
 div > span {
 	color: chartreuse;
 }
+
+input[type="password"] {
+	color: crimson;
+}
