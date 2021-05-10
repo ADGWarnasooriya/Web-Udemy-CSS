@@ -56,4 +56,5 @@ a:hover {
 
 button:active {
 	background-color: #00b4d8;
+	color: tomato;
 }
