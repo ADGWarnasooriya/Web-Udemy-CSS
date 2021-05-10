@@ -58,3 +58,11 @@ button:active {
 	background-color: #00b4d8;
 	color: tomato;
 }
+
+p::first-letter {
+	font-size: x-large;
+}
+
+p::first-line {
+	background-color: crimson;
+}
