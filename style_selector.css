@@ -44,3 +44,8 @@ div > span {
 input[type="password"] {
 	color: crimson;
 }
+
+button:hover {
+	background-color: crimson;
+	color: black;
+}
