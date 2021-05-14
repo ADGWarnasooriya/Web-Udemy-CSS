@@ -2,7 +2,7 @@
 	width: 200px;
 	height: 200px;
 	background-color: blueviolet;
-	transition: background-color 2s;
+	transition: all 1s 1s;
 }
 
 .circle:hover {
