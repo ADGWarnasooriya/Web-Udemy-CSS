@@ -1,1 +1,12 @@
-
+h1 {
+	background-color: #2d6a4f;
+	border: 5px solid #081c15;
+	color: antiquewhite;
+	padding: 0.7em;
+	width: 300px;
+	font-size: 1.8em;
+	text-align: center;
+	margin: 20px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: lighter;
+}
