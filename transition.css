@@ -9,3 +9,15 @@
 	background-color: brown;
 	border-radius: 50%;
 }
+
+section div {
+	height: 100px;
+	width: 100px;
+	background-color: #e76f51;
+	margin: 20px 0;
+}
+
+section:hover {
+	margin-left: 500px;
+	transition: margin-left 3s;
+}
