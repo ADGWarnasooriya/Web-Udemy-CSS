@@ -24,4 +24,5 @@ div {
 
 #absolute #middle {
 	position: absolute;
+	top: 50px;
 }
