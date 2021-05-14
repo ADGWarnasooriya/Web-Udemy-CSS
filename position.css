@@ -10,3 +10,8 @@ div {
 #middle {
 	background-color: brown;
 }
+
+#static #middle {
+	position: static;
+	top: 100px;
+}
