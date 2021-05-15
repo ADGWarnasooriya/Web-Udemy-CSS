@@ -10,3 +10,7 @@ h1 {
 	font-family: 'Courier New', Courier, monospace;
 	font-weight: lighter;
 }
+
+section:first-of-type h1:nth-last-of-type(4) {
+	transform: rotate(45deg);
+}
