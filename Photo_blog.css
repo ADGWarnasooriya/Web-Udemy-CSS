@@ -9,4 +9,9 @@ img {
 nav {
 	font-family: sofia, sans-serif;
 	text-transform: uppercase;
+	border-bottom: 2px solid #144552;
+	width: 35%;
+	margin-left: 4%;
+	padding: 5px 0;
+	font-size: 1.5em;
 }
