@@ -38,3 +38,11 @@ section:nth-of-type(2) h1:nth-last-of-type(3) {
 section:nth-of-type(2) h1:nth-last-of-type(2) {
 	transform: rotate(-20deg) scale(0.5);
 }
+
+section:nth-of-type(2) h1:nth-last-of-type(1) {
+	transform: translateX(-300px) rotate(0.5turn) scaleY(1.5);
+}
+
+section:nth-of-type(2) {
+	transform: scale(0.7) translateX(-500px);
+}
