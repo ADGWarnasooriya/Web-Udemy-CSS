@@ -16,4 +16,6 @@ button {
 }
 
 button:hover {
+	border-color: #f1ff5c;
+	color: white;
 }
