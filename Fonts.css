@@ -1,5 +1,5 @@
 body {
-	font-family: caveat, sans-serif;
+	font-family: Open Sans, sans-serif;
 }
 
 main {
@@ -8,5 +8,12 @@ main {
 }
 
 h1 {
+	font-size: 3rem;
+}
+
+h1,
+h2,
+h3 {
+	font-family: caveat, sans-serif;
 	font-weight: 800;
 }
