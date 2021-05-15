@@ -22,3 +22,7 @@ section:first-of-type h1:nth-last-of-type(3) {
 section:first-of-type h1:nth-last-of-type(2) {
 	transform: translate(200px);
 }
+
+section:first-of-type h1:nth-last-of-type(1) {
+	transform: translate(-200px);
+}
