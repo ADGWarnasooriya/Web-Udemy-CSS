@@ -14,7 +14,7 @@ h1 {
 	border: 5px solid darkslategray;
 	display: flex;
 	flex-direction: row;
-	justify-content: flex-end;
+	justify-content: center;
 }
 
 #container div {
