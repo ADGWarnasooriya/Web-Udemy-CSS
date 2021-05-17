@@ -27,5 +27,5 @@ h1 {
 }
 
 div:nth-of-type(3) {
-	align-self: center;
+	align-self: flex-end;
 }
