@@ -1,1 +1,15 @@
+body {
+	font-family: 'open sans', sans-serif;
+}
 
+h1 {
+	text-align: center;
+}
+
+#container {
+	background-color: darkslategray;
+	width: 90%;
+	height: 500px;
+	margin: 0 auto;
+	border: 5px solid darkslategray;
+}
