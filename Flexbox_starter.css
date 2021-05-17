@@ -14,8 +14,8 @@ h1 {
 	border: 5px solid darkslategray;
 	display: flex;
 	flex-direction: row;
-	justify-content: start;
-	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: flex-end;
 }
 
 #container div {
