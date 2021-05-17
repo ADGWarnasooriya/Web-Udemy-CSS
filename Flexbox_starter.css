@@ -9,11 +9,11 @@ h1 {
 #container {
 	background-color: darkslategray;
 	width: 90%;
-	height: 500px;
+	height: 1200px;
 	margin: 0 auto;
 	border: 5px solid darkslategray;
 	display: flex;
-	flex-direction: row-reverse;
+	flex-direction: column;
 	justify-content: flex-end;
 }
 
