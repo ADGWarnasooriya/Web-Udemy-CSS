@@ -13,13 +13,15 @@ h1 {
 	margin: 0 auto;
 	border: 5px solid darkslategray;
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	justify-content: center;
-	align-items: baseline;
+	align-items: flex-end;
+	flex-wrap: wrap;
+	align-content: center;
 }
 
 #container div {
-	width: 600px;
+	width: 200px;
 	height: 200px;
 	text-align: center;
 	font-size: 4em;
