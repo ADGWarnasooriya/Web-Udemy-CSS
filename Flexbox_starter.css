@@ -14,7 +14,7 @@ h1 {
 	border: 5px solid darkslategray;
 	display: flex;
 	flex-direction: column;
-	justify-content: space-between;
+	justify-content: start;
 	flex-wrap: wrap;
 }
 
