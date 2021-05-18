@@ -24,20 +24,24 @@ li {
 	}
 } */
 
-@media (max-width: 1500px) {
+h1 {
+	color: cadetblue;
+}
+
+@media (min-width: 500px) {
 	h1 {
-		color: brown;
+		color: blue;
 	}
 }
 
-@media (max-width: 1000px) {
+@media (min-width: 1000px) {
 	h1 {
 		color: yellow;
 	}
 }
 
-@media (max-width: 500px) {
+@media (min-width: 1500px) {
 	h1 {
-		color: blue;
+		color: brown;
 	}
 }
