@@ -45,3 +45,9 @@ h1 {
 		color: brown;
 	}
 }
+
+@media (orientation: landscape) {
+	body {
+		background-color: cornflowerblue;
+	}
+}
