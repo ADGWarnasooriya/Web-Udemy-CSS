@@ -129,9 +129,14 @@ table {
 }
 
 html {
+	box-sizing: border-box;
 	font-family: 'open sans', sans-serif;
 }
 
 body {
 	background-color: #60a9ff;
+}
+
+.panel {
+	background-color: white;
 }
