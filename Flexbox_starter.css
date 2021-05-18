@@ -47,10 +47,10 @@ main {
 main .sidebar {
 	background-color: blueviolet;
 	border: 2px solid white;
-	flex: 1 300px;
+	flex: 1 2 300px;
 }
 
 main .maincontent {
 	background-color: rgb(226, 43, 113);
-	flex: 2 800px;
+	flex: 2 1 800px;
 }
